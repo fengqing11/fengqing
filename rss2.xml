@@ -8,7 +8,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>浮世三千，吾爱有三，日、月、与卿</description>
-    <pubDate>Sat, 17 Nov 2018 13:35:37 GMT</pubDate>
+    <pubDate>Sat, 17 Nov 2018 13:41:43 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -22,14 +22,14 @@
         
           &lt;ul&gt;
 &lt;li&gt;想让你的字体雕刻在网页上吗？&lt;/li&gt;
-&lt;li&gt;只需要加山一下样式：&lt;/li&gt;
+&lt;li&gt;只需要加上以下样式：&lt;/li&gt;
 &lt;/ul&gt;
 &lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;
         
       
       </description>
       
-      <content:encoded><![CDATA[<ul><li>想让你的字体雕刻在网页上吗？</li><li>只需要加山一下样式：</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">border-bottom: 1px solid #111;</span><br></pre></td></tr></table></figure><ul><li>效果图：</li></ul><p><img src="https://imgchr.com/i/izySld" alt="效果图"></p>]]></content:encoded>
+      <content:encoded><![CDATA[<ul><li>想让你的字体雕刻在网页上吗？</li><li>只需要加上以下样式：</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">border-bottom: 1px solid #111;</span><br></pre></td></tr></table></figure><ul><li>效果图：</li></ul><p><img src="/images/1.png" alt="效果图"></p>]]></content:encoded>
       
       <comments>http://yoursite.com/2018/11/17/:title.html/#disqus_thread</comments>
     </item>
